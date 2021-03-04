@@ -1,0 +1,35 @@
+:root {
+    --introduction-color: black;
+    --aboutme-btn-background: #f58105;
+    --contactme-btn-background: #f58105;
+  }
+  .introduction {
+    color: var(--introduction-color);
+    text-align: center;
+    margin: 30px auto;
+    line-height: 40px;
+    font-size: 30px;
+  }
+  
+  .header {
+    display: block;
+    margin: 30px auto;
+    width: 800px;
+  }
+  
+  .aboutmebtn,
+  .contactmebtn {
+    background: var(--aboutme-btn-background);
+    font-weight: bold;
+    border: 2px solid white;
+    border-radius: 12px;
+    margin: 0 auto;
+    padding: 20px;
+    flex: 1;
+  }
+  
+  .contact-buttons {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 25px;
+  }
