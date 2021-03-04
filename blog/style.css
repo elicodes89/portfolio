@@ -2,6 +2,11 @@
     --introduction-color: black;
     --aboutme-btn-background: #f58105;
     --contactme-btn-background: #f58105;
+    --linkbtn-color: lightseagreen;
+  }
+  
+  body {
+    margin: 60px;
   }
   .introduction {
     color: var(--introduction-color);
@@ -32,4 +37,35 @@
     display: flex;
     justify-content: space-evenly;
     padding: 25px;
+  }
+  
+  .contents {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .content {
+    padding: 20px;
+    border-radius: 4px;
+    font-size: 17px;
+    text-align: center;
+    border: 2px solid lightseagreen;
+  }
+  
+  .contents div {
+    margin: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .link {
+    text-align: center;
+  }
+  
+  .contact-btn {
+    padding: 40px;
+    font-size: 30px;
+    text-align: center;
   }
