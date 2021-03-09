@@ -47,7 +47,8 @@
 
     SOURCE: BOOTSTRAP/SHECODES
 
-    Grids class
+    Grids class link
+    https://www.shecodes.io/learn/workshops/317/units/61/lessons/219
 
     Practice using grids
     https://www.shecodes.io/learn/workshops/317/units/61/challenges/158
