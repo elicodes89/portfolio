@@ -46,3 +46,5 @@
     >
 
     SOURCE: BOOTSTRAP/SHECODES
+
+    Practice using grids
