@@ -56,4 +56,4 @@
     my challenge or solution
     https://0cukz.csb.app/
 
-    RESPONSIVE IMAGES https://30upn.csb.app/
+    RESPONSIVE IMAGES challenge https://bej0w.csb.app/
