@@ -59,3 +59,5 @@
     RESPONSIVE IMAGES challenge https://bej0w.csb.app/
 
     RESPONSIVE NAVIGATION challenge https://00swj.csb.app/
+
+    WEEK2 HOMEWORK LINK https://7mgvz.csb.app/
