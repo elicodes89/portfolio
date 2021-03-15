@@ -60,4 +60,6 @@
 
     RESPONSIVE NAVIGATION challenge https://00swj.csb.app/
 
-    WEEK2 HOMEWORK LINK https://7mgvz.csb.app/
+    WEEK2 HOMEWORK LINK https://7mgvz.csb.app/\
+
+    WEEK 3 CSS MEDIA QUERIES https://s3msp.csb.app/
