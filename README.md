@@ -63,3 +63,4 @@
     WEEK2 HOMEWORK LINK https://7mgvz.csb.app/\
 
     WEEK 3 CSS MEDIA QUERIES https://s3msp.csb.app/
+    Live Server extension installed
