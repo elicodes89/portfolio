@@ -1,3 +1,9 @@
+@media(max-width:500px){
+  .primary-link{
+    display: none;
+  }
+}
+
 root {
   --primary-color: #6c63ff;
   --secondary-color: #f5f2fe;
